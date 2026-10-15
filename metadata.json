@@ -1,0 +1,6 @@
+{
+  "name": "ApexSAT Math",
+  "description": "Adaptive Digital SAT Math diagnostic, skill mapping, and personalized preparation platform for international students with multilingual glossary and study plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
